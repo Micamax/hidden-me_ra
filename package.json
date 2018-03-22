@@ -1,20 +1,22 @@
 {
-  "name": "🎀 ❝MERA❞",
-  "version": "0.0.5",
+  "name": "gearup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
-    "cool-ascii-faces": "1.3.4",
     "discord.js": "^11.3.1",
     "discord.js-musicbot-addon": "^1.10.3",
-    "fortnite": "^3.0.0",
+    "eris": "^0.8.5",
     "fortnite.js": "^1.3.0",
     "insta-scraper": "^1.0.2",
-    "mal-scraper": "^2.2.1",
-    "node-wolfram": "0.0.1",
-    "opusscript": "0.0.6",
-    "popura": "^1.2.5",
-    "profanities": "^2.6.0",
-    "random-puppy": "^1.1.0",
-    "weather-js": "^2.0.0",
-    "ytdl-core": "^0.20.1"
-  }
+    "node-wolfram": "^0.0.1",
+    "opusscript": "^0.0.6",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mera ;3",
+  "license": "ISC"
 }
