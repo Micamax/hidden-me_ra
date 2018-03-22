@@ -1,0 +1,15 @@
+{
+    "prefix":"-",
+    "ownerID":"389744080067756043",
+    "hexColour":"#ECBCD1",
+
+  "mashape": {
+    "jeannie":            "7LogP85fcMmshGBHXr3yBdqCVeLJp1ljQiljsnU49rf51wJf97"
+  },
+  "localization":{
+    "locale":             "en_GB",
+    "timezone":           "AST",
+    "timezoneOffset":     -240,
+    "coordinates":        "53.0,9.0"
+  }
+}
