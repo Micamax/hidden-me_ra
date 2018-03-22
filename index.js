@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const Music = require('discord.js-musicbot-addon');
-const settings = require('./settings.json');
 const weather = require('weather-js');
 const Bot = new Discord.Client();
 const prefix = '-';
